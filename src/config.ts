@@ -55,11 +55,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "Qaaxaap-Blog",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://www.cnblogs/Qaaxaap",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -67,7 +67,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/951753yyswys",
   /**
    * 背景图片地址
    */
@@ -75,7 +75,7 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
+  ICP: "",
   ICP_URL: "https://beian.miit.gov.cn/",
   FOOTER_INFO: true,
   /**
@@ -83,14 +83,11 @@ const GLOBAL_CONFIG = {
    */
   SLOGANS: [
     "欢迎拜访",
-    "歡迎拜訪",
     "Welcome, my friend!",
-    "訪問へようこそ",
     "嗨，别来无恙",
     "不忘初心，一生浪漫",
     "最近还好吗？",
     "流星，落花，萤火",
-    "马车越空，晃荡越响",
   ],
   /**
    * Website 分类配置
