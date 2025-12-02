@@ -1,39 +1,24 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "OI",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
+        title: "洛谷",
+        description:"梦开始的地方",
+        url: "https://www.luogu.com.cn/user/1223866",
+        icon: "https://fecdn.luogu.com.cn/columba/static.325908fec383795b.logo-single-color.svg",
         color: "#0171CD",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
+        title: "Codeforces",
+        url: "https://codeforces.com/profile/Qaaxaap",
+        icon: "https://cdn.luogu.com.cn/upload/image_hosting/y69fur93.png",
       },
     ],
   },
   {
     title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
   },
   {
     title: "友情链接",
