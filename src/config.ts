@@ -63,7 +63,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://api.dujin.org/bing/1920.php",
+  BACKGROUND_IMG_URL: "https://image.wsq127.top/file/xpt5dv6q.png",
   /**
    * ICP 备案号，留空不显示
    */
