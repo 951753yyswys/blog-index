@@ -15,6 +15,13 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://codeforces.com/profile/Qaaxaap",
         icon: "https://cdn.luogu.com.cn/upload/image_hosting/y69fur93.png",
       },
+      {
+        title: "博客园",
+        description:"不常用，多用自己的博客",
+        url: "https://www.cnblogs.com/Qaaxaap",
+        icon: "https://fecdn.luogu.com.cn/columba/static.325908fec383795b.logo-single-color.svg",
+        color: "#0171CD",
+      },
     ],
   },
   {
@@ -44,7 +51,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://www.cnblogs.com/Qaaxaap",
+  BLOG_URL: "https://blog.qaaxaap.living",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -69,10 +76,10 @@ const GLOBAL_CONFIG = {
   SLOGANS: [
     "欢迎拜访",
     "Welcome, my friend!",
-    "嗨，别来无恙",
-    "不忘初心，一生浪漫",
-    "最近还好吗？",
-    "流星，落花，萤火",
+    "还活着",
+    "日光之下并无新事",
+    "你说得对，但是",
+    "何意味",
   ],
   /**
    * Website 分类配置
@@ -86,7 +93,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "Qaaxaap's Blog Index",
     keywords: "Blog, Index, Index Page",
     description: "This is my personal blog index page.",
   },
