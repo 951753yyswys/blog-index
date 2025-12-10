@@ -17,9 +17,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
       {
         title: "博客园",
-        description:"不常用，多用自己的博客",
+        description:"不常用，还是自己博客好用",
         url: "https://www.cnblogs.com/Qaaxaap",
-        icon: "https://fecdn.luogu.com.cn/columba/static.325908fec383795b.logo-single-color.svg",
+        icon: "https://www.cnblogs.com/images/logo.svg",
         color: "#0171CD",
       },
     ],
