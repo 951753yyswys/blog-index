@@ -62,7 +62,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://imgloc.com/image/CnWngF",
+  BACKGROUND_IMG_URL: "https://i.imgs.ovh/2025/12/11/CnWngF.png",
   /**
    * ICP 备案号，留空不显示
    */
