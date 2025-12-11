@@ -62,7 +62,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://github.com/951753yyswys/blog-index/public/wallpaper.png",
+  BACKGROUND_IMG_URL: "https://qaaxaap.living/public/wallpaper.png",
   /**
    * ICP 备案号，留空不显示
    */

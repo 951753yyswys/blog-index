@@ -62,7 +62,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://qaaxaap.living/public/wallpaper.png",
+  BACKGROUND_IMG_URL: "https://imgloc.com/image/CnWngF",
   /**
    * ICP 备案号，留空不显示
    */
