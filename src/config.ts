@@ -24,16 +24,16 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "示例分类2",
+    title: "空模板保留",
   },
   {
     title: "友情链接",
     sites: [
       {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
+        title: "Revitalize Blog",
+        description: "多项式科技大神！",
+        url: "https://www.revitalize.top",
+        icon: "https://cdn.luogu.com.cn/upload/usericon/553192.png",
       },
     ],
   },
@@ -62,7 +62,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://i.imgs.ovh/2025/12/11/CnWngF.png",
+  BACKGROUND_IMG_URL: "https://blog.qaaxaap.living/images/wallpaper.png",
   /**
    * ICP 备案号，留空不显示
    */
